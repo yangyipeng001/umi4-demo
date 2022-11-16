@@ -13,4 +13,7 @@ export default {
     '@umijs/plugins/dist/antd'
   ],
   antd: {},
+
+  // 路由
+  routes: []
 };
